@@ -1,5 +1,6 @@
 {
   "name": "dashboard",
+  "homepage": "http://S-Osman4.github.io/alx-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
